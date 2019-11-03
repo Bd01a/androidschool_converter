@@ -20,4 +20,6 @@
     <string name="CONVERSATION_TAG">CONVERSATION_TAG</string>
     <string name="value1">Величина 1</string>
     <string name="value2">Величина 2</string>
+
+    <string name="value_format">%g</string>
 </resources>

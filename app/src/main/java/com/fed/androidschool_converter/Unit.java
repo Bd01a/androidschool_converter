@@ -6,7 +6,7 @@ import androidx.annotation.StringRes;
 public enum Unit {
     KILOMETERES(R.string.kilometeres, 0.001, 1000),
     METRES(R.string.metres, 1, 1),
-    MILE(R.string.mile, 0.625, 1.6),
+    MILE(R.string.mile, 0.00062, 1609.34),
     KILOGRAM(R.string.kilogram, 1, 1),
     GRAM(R.string.gram, 0.001, 1000);
 
